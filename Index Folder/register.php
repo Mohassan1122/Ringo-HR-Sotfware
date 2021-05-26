@@ -49,9 +49,9 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        Already have a Ringo HR account?<a class="text-white" href="login.php"> Signin</a>
+                        Already have a Ringo HR account?<a class="text-white" href="login.php"> Sign in</a>
                     </li>
-                   
+
                 </ul>
             </div>
         </div>
@@ -60,17 +60,17 @@
 
     <main>
         <section class="section section-shaped section-lg my-0">
- <div class="shape shape-style-1 bg-gradient-teal">
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-       
-      </div>
+            <div class="shape shape-style-1 bg-gradient-teal">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+
+            </div>
             <div class="container pt-lg-md">
                 <div class="row justify-content-center">
                     <div class="col-lg-5">
@@ -160,12 +160,7 @@
                                             </a>
                                         </div>
                                     </div>
-
-
-
                                 </div>
-
-
                             </div>
                         </div>
                     </div>
@@ -175,7 +170,7 @@
     </main>
 
     <!-- Footer -->
-   
+
     </footer>
 
     <script>
