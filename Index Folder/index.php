@@ -150,7 +150,7 @@
                         <div class="btn-wrapper  text-center">
                             <a href="register.php" class="btn btn-primary btn-icon mb-3 mb-sm-0">
                                 <span class="btn-inner--icon"><i class="ni ni-cloud-download-95"></i></span>
-                                <span class="btn-inner--text">Try for free</span>
+                                <span class="btn-inner--text font-weight-900">Try for free</span>
                             </a>
                         </div>
 
@@ -189,8 +189,8 @@
                             <div class="icon icon-lg icon-shape icon-shape-success shadow rounded-circle mb-5">
                                 <i class="ni ni-settings-gear-65"></i>
                             </div>
-                            <h3>Awesome features</h3>
-                            <p>The kit comes with three pre-built pages to help you get started faster. You can change the text and images and you're good to go.</p>
+                            <h3>Some features</h3>
+                            <p>Having the right HR software for your business can be a game changer.  But more often than not, the choices can be overwhelming--particularly for human resource teams trying to wade through tech-heavy specs and options while also managing employee relations issues, open enrollment, and everything else on your plate! Here are some of the key featuresof HR...</p>
                             <ul class="list-unstyled mt-5">
                                 <li class="py-2">
                                     <div class="d-flex align-items-center">
@@ -200,7 +200,7 @@
                                             </div>
                                         </div>
                                         <div>
-                                            <h6 class="mb-0">Carefully crafted components</h6>
+                                            <h6 class="mb-0">Scheduling management</h6>
                                         </div>
                                     </div>
                                 </li>
@@ -212,7 +212,7 @@
                                             </div>
                                         </div>
                                         <div>
-                                            <h6 class="mb-0">Amazing page examples</h6>
+                                            <h6 class="mb-0">Workflow monitoring</h6>
                                         </div>
                                     </div>
                                 </li>
@@ -224,7 +224,31 @@
                                             </div>
                                         </div>
                                         <div>
-                                            <h6 class="mb-0">Super friendly support team</h6>
+                                            <h6 class="mb-0">Performance</h6>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="py-2">
+                                    <div class="d-flex align-items-center">
+                                        <div>
+                                            <div class="badge badge-circle badge-success mr-3">
+                                                <i class="ni ni-satisfied"></i>
+                                            </div>
+                                        </div>
+                                        <div>
+                                            <h6 class="mb-0">Basic profile</h6>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="py-2">
+                                    <div class="d-flex align-items-center">
+                                        <div>
+                                            <div class="badge badge-circle badge-success mr-3">
+                                                <i class="ni ni-satisfied"></i>
+                                            </div>
+                                        </div>
+                                        <div>
+                                            <h6 class="mb-0">Employment history</h6>
                                         </div>
                                     </div>
                                 </li>
