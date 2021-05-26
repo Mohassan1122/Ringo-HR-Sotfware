@@ -115,7 +115,7 @@
                         <a class=" nav-link js-scroll-trigger" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="login.php">Pricing</a>
+                        <a class="nav-link js-scroll-trigger" href="">Pricing</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link js-scroll-trigger" href="#">Contact</a>
