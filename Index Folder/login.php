@@ -49,7 +49,7 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-          New to Ringo HR ?<a class="text-white" href="register.php"> Sign up</a>
+            New to Ringo HR ?<a class="text-white" href="register.php"> Sign up</a>
           </li>
 
         </ul>
@@ -113,8 +113,12 @@
                   <div class="text-center">
                     <button type="submit" name="login" class="btn btn-primary my-4">Sign in</button>
                   </div>
-                </form>
 
+                </form>
+                <div class="text-center font-italic">
+                  <small > <a class="text-dark " href="">Forgot your password?</a> </small>
+                </div>
+                 <hr>
                 <div class="container p-3">
                   <div class="text-dark text-center mb-3">
                     <small>Alternative Signup option</small>
